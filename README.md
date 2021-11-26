@@ -1,0 +1,1 @@
+# Neste repositório serão armazenados os exercícios realizados no decorrer dos estudos.
